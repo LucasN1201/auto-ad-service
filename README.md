@@ -24,7 +24,7 @@ Use these on the login page at http://localhost:3000/login. Change in production
 Copy `.env.example` to `.env` and set at least:
 
 - `TELEGRAM_BOT_TOKEN` — from [@BotFather](https://t.me/BotFather)
-- `OPENAI_API_KEY` — for the Telegram bot’s LLM (if you don’t have one, the task said to ask for a key)
+- `OPENAI_API_KEY` — for the Telegram bot’s LLM
 
 Then run:
 
